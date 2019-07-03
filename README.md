@@ -57,7 +57,7 @@ For comparison, we have ``pagerank_gg`` which uses GridGraph's ``stream_edges`` 
 ```
 
 ## Benchmarking Summary
-Below performance numbers compare ``pagerank`` and ``pagerank_delta`` with ``pagerank_gg`` on [XXXTwitterXXX](XXX) graph with ``6``GB memory budget. Detailed results with larger graphs and bigger machines can be found [here](https://www.cs.sfu.ca/~keval/contents/papers/lumos-atc19.pdf).
+Below performance numbers compare ``pagerank`` and ``pagerank_delta`` with ``pagerank_gg`` on [Twitter](http://konect.uni-koblenz.de/networks/twitter) graph with ``6``GB memory budget. Detailed results with larger graphs and bigger machines can be found [here](https://www.cs.sfu.ca/~keval/contents/papers/lumos-atc19.pdf).
 
 |      Variants     |    2 Iterations   |   10 Iterations   |   20 Iterations   |   30 Iterations   |
 |:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
