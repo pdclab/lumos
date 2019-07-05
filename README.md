@@ -1,4 +1,5 @@
-# Lumos
+<img src="https://user-images.githubusercontent.com/8582843/60700384-97cf0080-9eac-11e9-8e60-c40d9da04e79.png" alt="Lumos" width="200">
+
 **Dependency-Driven Disk-based Graph Processing**
 
 ## What is it?
@@ -76,7 +77,7 @@ There are few opportunities to improve Lumos for contributors who'd like to ente
 ## Resources
 Keval Vora. [Lumos: Dependency-Driven Disk-based Graph Processing](https://www.cs.sfu.ca/~keval/contents/papers/lumos-atc19.pdf). USENIX Annual Technical Conference (ATC'19). Renton, WA, July 2019.
 
-To cite Lumos, you can use the following BibTeX entry:
+Use the following BibTeX entry to cite Lumos:
 ```
 @inproceedings {234984,
 author = {Keval Vora},
