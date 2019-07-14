@@ -3,7 +3,7 @@
 **Dependency-Driven Disk-based Graph Processing**
 
 ## What is it?
-Lumos is a single machine disk-based large-scale graph processing system. It improves over [GridGraph](https://github.com/kevalvora/lumos-internal#benchmarking-summary) using dependency-driven cross-iteration value propagation. [[Read more](https://www.cs.sfu.ca/~keval/contents/papers/lumos-atc19.pdf)]
+Lumos is a single machine disk-based large-scale graph processing system. It improves over [GridGraph](https://github.com/kevalvora/lumos-internal#benchmarking-summary) using dependency-driven cross-iteration value propagation. [[Read more](https://www.usenix.org/system/files/atc19-vora.pdf)]
 
 ## Getting Started
 ### 1. Installation
@@ -58,7 +58,7 @@ For comparison, we have ``pagerank_gg`` which uses GridGraph's ``stream_edges`` 
 ```
 
 ## Benchmarking Summary
-Below performance numbers compare ``pagerank`` and ``pagerank_delta`` with ``pagerank_gg`` on [Twitter](http://konect.uni-koblenz.de/networks/twitter) graph with ``6``GB memory budget. Detailed results with larger graphs and bigger machines can be found [here](https://www.cs.sfu.ca/~keval/contents/papers/lumos-atc19.pdf).
+Below performance numbers compare ``pagerank`` and ``pagerank_delta`` with ``pagerank_gg`` on [Twitter](http://konect.uni-koblenz.de/networks/twitter) graph with ``6``GB memory budget. Detailed results with larger graphs and bigger machines can be found [here](https://www.usenix.org/system/files/atc19-vora.pdf).
 
 |      Variants     |    2 Iterations   |   10 Iterations   |   20 Iterations   |   30 Iterations   |
 |:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
