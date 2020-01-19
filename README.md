@@ -75,7 +75,7 @@ There are few opportunities to improve Lumos for contributors who'd like to ente
 3. Asynchronous propagation beyond dependencies for path algorithms.
 
 ## Resources
-Keval Vora. [Lumos: Dependency-Driven Disk-based Graph Processing](https://www.cs.sfu.ca/~keval/contents/papers/lumos-atc19.pdf). USENIX Annual Technical Conference (ATC'19). Renton, WA, July 2019.
+Keval Vora. [Lumos: Dependency-Driven Disk-based Graph Processing](https://www.usenix.org/conference/atc19/presentation/vora). USENIX Annual Technical Conference (ATC'19). Renton, WA, July 2019.
 
 Use the following BibTeX entry to cite Lumos:
 ```
